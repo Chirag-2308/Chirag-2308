@@ -13,7 +13,7 @@ I'm a Computer Science professional passionate about building **secure, intellig
 - **Cybersecurity**: Network security, ethical hacking, vulnerability assessment, and secure software design.
 
 ### 🤝 Looking to collaborate on
-- Open source **security tools** and **AI/ML research projects**
+- Open source **security tools** and **Data science/Cybersecurity research projects**
 - Anything in **Cybersecurity**
 
 ### 🛠️ Tech Stack
