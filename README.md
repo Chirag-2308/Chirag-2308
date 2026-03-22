@@ -1,4 +1,4 @@
-## Hi there, I'm Chirag 👋
+## Holla, I'm Chirag 👋
 
 > Software Engineer · Cybersecurity Learner · Father to a curious little Chirag 👦
 
