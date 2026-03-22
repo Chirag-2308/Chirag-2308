@@ -2,7 +2,7 @@
 
 > Software Engineer · Cybersecurity Learner · Father to a curious little Chirag 👦
 
-I'm a Computer Science professional passionate about building **secure, intelligent systems** that solve real-world industrial problems. Currently exploring the intersection of **AI and cybersecurity** while working toward a Master's degree in Germany.
+I'm a Computer Science professional passionate about building **secure, intelligent systems** that solve real-world industrial problems. Currently exploring the intersection of **Data Science and cybersecurity** while working toward .
 
 ---
 
