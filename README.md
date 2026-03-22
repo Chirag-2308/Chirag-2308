@@ -2,9 +2,9 @@
 
 By day I wrangle data and build AI that keeps machines from breaking.
 By night I learn to break things — ethically, I promise. 🔐
-And somewhere in between, I'm raising a tiny human named Chirag. Yes, same name. Yes, it gets confusing. 👦
+Always curious. Always building. Occasionally sleeping.
 
-> *"I believe the best systems are both intelligent and secure — and the best dads write clean code."*
+> *"I believe the best systems are both intelligent and secure — built by people who never stop asking why."*
 
 ---
 
@@ -16,9 +16,9 @@ Machines fail. Factories lose money. I'm building an ML system that sees failure
 ---
 
 ### 🔐 What I'm Obsessing Over
-**Cybersecurity — the art of thinking like an attacker**
+**Cybersecurity — thinking like an attacker**
 
-Currently diving deep into ethical hacking, network security, and vulnerability assessment. My goal? Build data systems that aren't just smart — but ones that attackers can't touch.
+Diving deep into ethical hacking, network security, and vulnerability assessment. My goal? Build data systems that aren't just smart — but ones that attackers simply can't touch.
 
 ---
 
@@ -45,19 +45,12 @@ If your project solves a real problem and you need someone who genuinely cares �
 
 ---
 
-### 📊 GitHub Stats
-
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chirag-2308&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-2308&layout=compact&hide_border=true)
-
----
-
 ### 🙋 A Few Things About Me
 
 - 🔍 I debug data the way detectives crack cases — follow the trail, trust nothing
 - 🔐 Breaking systems (legally) is my hobby. Security through curiosity
 - 🤖 Teaching machines to predict the unpredictable — one model at a time
-- 👦 Dad to little Chirag. He breaks things too. We're basically the same
+- 📊 If it has a pattern, I will find it. If it doesn't, I'll look harder
 - ☕ Runs on Python and strong chai. In that order
 - 📖 Always learning. Always building. Never done
 
@@ -77,4 +70,4 @@ I don't bite. Reach out if you want to collaborate, talk data, or geek out about
 
 ---
 
-> *"Debugging machines by day, debugging life as a dad by night — powered by Python and strong chai."* ☕
+> *"Debugging machines by day, breaking systems by night — powered by Python and strong chai."* ☕
