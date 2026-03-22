@@ -1,4 +1,4 @@
-## Hey, I'm Chirag Singh Rothan 👋
+## Holla, I'm Chirag Singh Rothan 👋
 
 By day I wrangle data and build AI that keeps machines from breaking.
 By night I learn to break things — ethically, I promise. 🔐
