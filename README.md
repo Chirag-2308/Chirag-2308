@@ -25,7 +25,7 @@ My go-to stack for data work, security research, and everything in between.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=flat&logo=hackthebox&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-239120?style=flat&logo=apacheairflow&logoColor=white)
+
 
 ---
 
