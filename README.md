@@ -1,4 +1,4 @@
-## Hey, I'm Chirag Singh Rothan 👋
+## Holla, I'm Chirag Singh Rothan 👋
 
 I'm a **Data Science and Cybersecurity enthusiast** who believes the two fields are more connected than most people think — because what's the point of a smart system if it isn't secure?
 
